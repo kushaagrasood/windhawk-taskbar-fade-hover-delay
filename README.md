@@ -1,5 +1,4 @@
-# windhawk-taskbar-fade-hover-delay
-# Taskbar Fade
+# Taskbar Fade+ (Hover Delay)
 Automatically dims or hides the taskbar when the computer is idle.
 
 This mod is designed to prevent OLED burn-in and reduce visual distractions by lowering the taskbar's opacity when it is not in use.
